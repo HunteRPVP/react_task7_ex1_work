@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.hot {
+  color: red;
+}
+
+.cold {
+  color: blue;
+}
+
+.norm {
+  color: gray;
+}
+
+.container {
+  border-color: red;
+  border-radius: 30px;
+  border-style: solid;
+  margin: 40px 50px 70px;
+  padding: 15px;
+}
+
+.split-container {
+  width: 100%;
+}
+
+.split-container-left {
+  float: left;
+  width: 50%;
+}
+
+.split-container-right {
+  float: left;
+  width: 50%;
+}
